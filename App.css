@@ -3,10 +3,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.landing {
-  background-image: url('/plants-bg.jpg');
-  height: 100vh;
+.landing-page {
+  background-image: url("./assets/nursery-bg.jpg");
   background-size: cover;
+  background-position: center;
+  height: 100vh;
   text-align: center;
   color: white;
 }
